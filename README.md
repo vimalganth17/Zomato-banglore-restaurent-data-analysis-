@@ -1,8 +1,5 @@
 # Zomato-banglore-restaurent-data-analysis-
 
-![img](img1.jpg)
-
-## You can find the well documented and detailed approach here : [link](https://medium.com/@shubhankarrawatsam.1999/zomato-bangalore-data-analysis-6ee83652890f)
 
 Bangalore(officially known as Bengaluru) is the capital and largest city of the Indian state of Karnataka. 
 With a population of over 15 million, Bangalore is the third largest city in India and 27th largest city in the world.
@@ -15,8 +12,7 @@ So, in this project I will be analyzing the Zomato restaurant data for the city,
 
 ## Data
 
-The dataset is taken from kaggle, you can find it [here](https://medium.com/r/?url=https%3A%2F%2Fwww.kaggle.com%2Fhimanshupoddar%2Fzomato-bangalore-restaurants).
-The data is accurate to that available on the Zomato website until 15 March 2019.
+The dataset is taken from kaggle, you can find it [here](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants).
 
 The dataset contains the following features :
 
